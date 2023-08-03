@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yoganand T D</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoganand1999&label=Profile%20views&color=0e75b6&style=flat" alt="yoganand1999" /> </p>
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **HTML, CSS, SQL, React**
+- 💬 Ask me about **HTML, CSS, Java, React, JavaScript**
 
 - 📫 How to reach me **yoganandmanoj303@gmail.com**
 
